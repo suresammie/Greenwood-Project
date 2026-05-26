@@ -53,14 +53,14 @@ greenwood-m365-identity/
 ## Project Status
 | Area | Status |
 |---|---|
-| User Creation | ✅ Complete |
-| Security Groups | ✅ Complete |
-| M365 Groups & Teams | ✅ Complete |
-| MFA — Conditional Access | ✅ Complete |
-| Self-Service Password Reset | ✅ Complete |
-| Password Protection | ✅ Complete |
-| Admin Role Assignments | ✅ Complete |
-| Documentation | ✅ Complete |
+| User Creation | completed
+| Security Groups | Completed
+| M365 Groups & Teams | Completed
+| MFA — Conditional Access | Completed
+| Self-Service Password Reset | Completed
+| Password Protection | Completed
+| Admin Role Assignments | Completed
+| Documentation | Completed
 
 ## Last Updated
 May 2026
