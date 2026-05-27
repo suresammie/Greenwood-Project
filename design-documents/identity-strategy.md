@@ -37,4 +37,4 @@ Greenwood Accountants is migrating from on-premises Active Directory to Microsof
 | Tenant Domain | christtech.co.uk |
 | Admin Centre | https://entra.microsoft.com |
 | UPN Format | firstname.greenwood@christtech.co.uk |
-| Licence | Microsoft 365 Business Premium (assumed) |
+| Licence | Microsoft 365 Business Premium|
