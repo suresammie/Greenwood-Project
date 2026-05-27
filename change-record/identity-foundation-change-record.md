@@ -68,8 +68,7 @@ Greenwood Accountants failed a cyber insurance assessment due to the absence of 
 
 | Role | Name | Date |
 |---|---|---|
-| IT Manager | | |
-| Project Lead | | |
+| Project Team Lead | | |
 
 ## Status
 ✅ Complete — May 2026
