@@ -1,8 +1,6 @@
 # Greenwood Accountants — Microsoft 365 Identity Foundation
 
 ## Pre Overview
-adkflndlknajdnjnfbfjdnbnfja;kldnjdbjbajdfnfdkmkalnmkdsnfd
-
 
 
 ## Overview
